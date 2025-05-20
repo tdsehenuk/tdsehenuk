@@ -13,21 +13,21 @@ I enjoy lifting, volunteering, building PCs, playing games, hanging with friends
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On Daily
 
-- 📘 Solving every exercise from *K&R* (The C Programming Language)  
-- 💻 Building small tools to simulate **real SDLC and test processes**
+- 📘 Reading and Practicing Problems based on *K&R* (The C Programming Language)  
 - 🧪 Practicing clean commits and readable, maintainable code  
 - ✍️ Writing documentation and building traceability into my projects
-
+- 🧬 Exploring **Assembly language basics**
+- 🛠️ Practicing **unit testing in C** (Unity) 
+- 📊 Simulating simple **code coverage** through (gcov)
+  
 ---
 
 ## 🔭 My Upcoming Projects
-
+- 🤘 Working through each exercise in *K&R* 
 - 🐞 Debugging and verification workflows (via GDB)
-- 🛠️ Practicing **unit testing in C** 
-- 🧬 Exploring **Assembly language basics**
-- 📊 Simulating simple **code coverage** 
+- 🛠️ Building Personal Projects in C
 
 ---
 
@@ -42,6 +42,6 @@ I enjoy lifting, volunteering, building PCs, playing games, hanging with friends
 
 - Break into the tech industry testing or development  
 - Continue learning challenging topics
-- Becoming better each day
+- Becoming 1 % better each day
 
 > “Discipline is the bridge between goals and accomplishment.”

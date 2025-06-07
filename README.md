@@ -25,6 +25,7 @@ I'm a graduate of West Chester University of Pennsylvania and a self-taught deve
 ## 🔭 My Upcoming Projects
 - 🐞 Debugging and verification workflows (via GDB)
 - 🛠️ Building Personal Projects in C
+- Building my first project with an embedded device.
 
 ---
 
